@@ -1,4 +1,4 @@
-# aboutme 
+its-me-anushka
 <h1 align="center">Hi 👋, I'm Anushka</h1>
 <h3 align="center">A passionate student .</h3>
 
